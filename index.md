@@ -1,3 +1,3 @@
 [Azure Cosmos DB](https://prashantdhavale.github.io/azurecosmosdb)
 
-[Other Repo Page](https://prashantdhavale.github.io/agl/temptest.md)
+[Other Repo Page](https://prashantdhavale.github.io/AGL/temptest)
